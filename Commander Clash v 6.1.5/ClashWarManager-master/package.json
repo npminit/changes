@@ -1,0 +1,21 @@
+{
+  "name": "war-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": { "node": "8.4.0" },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.5.0",
+    "line.js": "^3.3.2",
+    "moment": "^2.19.1",
+    "node-persist": "^2.1.0",
+    "simple-get": "^2.7.0",
+    "enmap": "^0.4.2",
+    "enmap-level": "^1.0.0"
+  }
+}
